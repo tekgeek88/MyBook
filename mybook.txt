@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 This is change $3 we didnt like this one it threw exceptions
 This is change #1
 This is change #2
+=======
+>>>>>>> parent of 8290fe9... This was change #1
